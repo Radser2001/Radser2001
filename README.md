@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Supuni and I'm a Software Engineering Student from Sri Lanka
+My name is Supuni and I'm a Student from Sri Lanka
 
 🌱 Interests: AI, Data Science, Web & App Development
 
